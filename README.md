@@ -1,0 +1,4 @@
+# Frontend-UI-Intern
+shabnum@density.exchange and preetish@density.exchange
+
+"Welcome to our Restaurant , where culinary excellence meets warm hospitality. At our establishment, we craft unforgettable dining experiences that cater to every palate. Our menu boasts an enticing array of dishes, from mouthwatering appetizers to delectable desserts, all made from locally-sourced, fresh ingredients. The ambiance of our restaurant exudes elegance, creating the perfect setting for a romantic dinner, family celebration, or a night out with friends. Discover our carefully curated wine list, exceptional cocktails, and attentive service that ensure your visit is nothing short of memorable. Explore our website to peruse the menu, book a table, and stay up-to-date with the latest culinary events and promotions. is where your gastronomic journey begins."
